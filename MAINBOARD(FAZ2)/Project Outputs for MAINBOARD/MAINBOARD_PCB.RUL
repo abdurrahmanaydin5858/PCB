@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Abdurrahman\Desktop\DONANIM-faz2\MAINBOARD(FAZ2)\MAINBOARD_PCB.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=0.15mm|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=PCBWAY Standarts|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

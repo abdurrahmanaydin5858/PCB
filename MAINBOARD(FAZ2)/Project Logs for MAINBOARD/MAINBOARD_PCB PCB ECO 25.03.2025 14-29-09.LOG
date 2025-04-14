@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=5V0_INT Pin=J_EXTRAS-1
+Removed Pin From Net: NetName=NetJ_EXTRAS_4 Pin=J_EXTRAS-4
+Removed Pin From Net: NetName=GND Pin=J_EXTRAS-5
+Removed Pin From Net: NetName=I2C_SDA-4 Pin=J_EXTRAS-6
+Removed Pin From Net: NetName=I2C_SCL-4 Pin=J_EXTRAS-7
+Removed Member From Class: ClassName=CONNECTORs Member=J_EXTRAS
+Added Component: Designator=J(TE_1734598-7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A99919-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2374857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2374857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1734598-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1734598-7/TE%20Connectivity%20AMP%20Connectors/view-part/2374857/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0_INT Pin=J-1
+Added Pin To Net: NetName=NetJ_EXTRAS_4 Pin=J-4
+Added Pin To Net: NetName=GND Pin=J-5
+Added Pin To Net: NetName=I2C_SDA-4 Pin=J-6
+Added Pin To Net: NetName=I2C_SCL-4 Pin=J-7
+Change Net Name : Old Net Name=NetJ_EXTRAS_4 New Net Name=NetJ_4
+Added Pin To Net: NetName=NetJ_2 Pin=J-2
+Added Pin To Net: NetName=NetJ_2 Pin=U5-34
+Added Net: Name=NetJ_2
+Added Pin To Net: NetName=NetJ_3 Pin=J-3
+Added Pin To Net: NetName=NetJ_3 Pin=U5-35
+Added Net: Name=NetJ_3
+Added Member To Class: ClassName=CONNECTORs Member=Component J 1734598-7

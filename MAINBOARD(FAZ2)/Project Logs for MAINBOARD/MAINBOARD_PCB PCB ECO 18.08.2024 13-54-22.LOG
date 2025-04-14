@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetDEVICE_ID_6 Pin=U5-45
+Removed Pin From Net: NetName=NetDEVICE_ID_3 Pin=U5-46
+Removed Pin From Net: NetName=NetDEVICE_ID_2 Pin=U5-47
+Removed Pin From Net: NetName=NetDEVICE_ID_7 Pin=U5-49
+Removed Pin From Net: NetName=NetDEVICE_ID_8 Pin=U5-50
+Removed Pin From Net: NetName=NetDEVICE_ID_5 Pin=U5-53
+Removed Pin From Net: NetName=NetDEVICE_ID_1 Pin=U5-54
+Added Pin To Net: NetName=NetDEVICE_ID_1 Pin=U5-45
+Added Pin To Net: NetName=NetDEVICE_ID_2 Pin=U5-46
+Added Pin To Net: NetName=NetDEVICE_ID_3 Pin=U5-47
+Added Pin To Net: NetName=NetDEVICE_ID_5 Pin=U5-49
+Added Pin To Net: NetName=NetDEVICE_ID_6 Pin=U5-50
+Added Pin To Net: NetName=NetDEVICE_ID_7 Pin=U5-53
+Added Pin To Net: NetName=NetDEVICE_ID_8 Pin=U5-54

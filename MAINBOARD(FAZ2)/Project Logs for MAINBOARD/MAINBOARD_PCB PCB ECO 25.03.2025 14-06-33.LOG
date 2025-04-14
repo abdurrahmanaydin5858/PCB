@@ -1,0 +1,4 @@
+Change Component Comment : Designator=J_EXTRA Old Comment=533980771 New Comment=501331-0707
+Change Component Description : Designator=X1 Old Description=16 MHz ±10ppm Crystal 9pF 40 Ohms 4-SMD, No Lead New Description= 16 MHz ±10ppm Crystal 9pF 40 Ohms 4-SMD, No Lead
+Change Component Description : Designator=R150 Old Description=Inrush Current Limiter 5 Ohms ±20% 3 A New Description=Inrush Current Limiter 5 Ohms ±20% 3 A 
+Added Member To Class: ClassName=CONNECTORs Member=Component J_EXTRA 501331-0707

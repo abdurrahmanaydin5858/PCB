@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetR168_2 Pin=U5-19
+Removed Pin From Net: NetName=NetJ9_5 Pin=U5-44
+Change Component Comment : Designator=J_EXTRA Old Comment=533980771 New Comment=501331-0707
+Change component parameters: Designator = "J_EXTRA"; UniqueID = "\YYKFCYUD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Operating Temp."; Value = "-40°C ~ + 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "501331-0707"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "501331-0707"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "N/A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED7_1 Pin=LED1007-3
+Added Pin To Net: NetName=NetLED7_1 Pin=LED1008-1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED1008-3
+Added Pin To Net: NetName=NetLED8_1 Pin=LED1009-1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED1009-3
+Added Pin To Net: NetName=NetLED9_1 Pin=LED1010-1
+Added Pin To Net: NetName=NetLED10_1 Pin=LED1010-3
+Added Pin To Net: NetName=NetLED10_1 Pin=LED1011-1
+Added Pin To Net: NetName=NetLED11_1 Pin=LED1011-3
+Added Pin To Net: NetName=NetLED11_1 Pin=LED1012-1
+Added Pin To Net: NetName=NetLED19_1 Pin=LED1019-3
+Added Pin To Net: NetName=NetLED19_1 Pin=LED1020-1
+Added Pin To Net: NetName=NetLED20_1 Pin=LED1020-3
+Added Pin To Net: NetName=NetLED20_1 Pin=LED1021-1
+Added Pin To Net: NetName=NetLED21_1 Pin=LED1021-3
+Added Pin To Net: NetName=NetLED21_1 Pin=LED1022-1
+Added Pin To Net: NetName=NetLED22_1 Pin=LED1022-3
+Added Pin To Net: NetName=NetLED22_1 Pin=LED1023-1
+Added Pin To Net: NetName=NetLED23_1 Pin=LED1023-3
+Added Pin To Net: NetName=NetLED23_1 Pin=LED1024-1
+Added Pin To Net: NetName=NetJ9_5 Pin=U5-19
+Added Pin To Net: NetName=NetR168_2 Pin=U5-44

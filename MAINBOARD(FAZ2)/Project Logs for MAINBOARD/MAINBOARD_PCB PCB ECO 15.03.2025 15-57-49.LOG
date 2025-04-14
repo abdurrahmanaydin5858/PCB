@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J_EXTRA Old Footprint=1.25_ST_5POS_THT New Footprint=CONN07_533980771_MOL
+Added Pin To Net: NetName=I2C_SDA-4 Pin=J_EXTRA-6
+Added Pin To Net: NetName=I2C_SCL-4 Pin=J_EXTRA-7
