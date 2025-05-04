@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=VBUS Pin=J9-1
+Removed Pin From Net: NetName=USB_D_N Pin=J9-2
+Removed Pin From Net: NetName=USB_D_P Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Member From Class: ClassName=UART_USB Member=J9
+Added Component: Designator=J19(CONN_1815303)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=P5(691311500003)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Application"; Value = "Pluggable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Block"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691311500003?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691311500003?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691311500003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Pluggable Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ALARM_PWOUT Pin=J19-1
+Added Pin To Net: NetName=GND Pin=J19-2
+Added Pin To Net: NetName=ALARM_PWOUT Pin=J19-3
+Added Pin To Net: NetName=GND Pin=J19-4
+Added Pin To Net: NetName=ALARM_PWOUT Pin=J19-5
+Added Pin To Net: NetName=GND Pin=J19-6
+Added Pin To Net: NetName=5V0_INT Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=12V0_PWIN Pin=P5-3
+Added Member To Class: ClassName=ALARM_POWER Member=Component J19 1778599
+Added Member To Class: ClassName=POWER Member=Component P5 691311500003

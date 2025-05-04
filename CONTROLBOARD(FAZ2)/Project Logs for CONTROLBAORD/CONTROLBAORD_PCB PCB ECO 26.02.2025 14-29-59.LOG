@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=OSC_IN Pin=U1-23
+Removed Pin From Net: NetName=OSC_OUT Pin=U1-24
+Removed Pin From Net: NetName=NetC25_2 Pin=U1-25
+Removed Pin From Net: NetName=NetR28_2 Pin=U1-57
+Added Component: Designator=M5(M3_Screw)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Place"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=M6(M3_Screw)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Place"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP-144)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operatin Temp."; Value = "-40°C ~ 85°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "STM32H563ZIT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1.7-3.6 V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP-144)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operatin Temp."; Value = "-40°C ~ 85°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "STM32H563ZIT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1.7-3.6 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_MCU Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=VDD_MCU Pin=U1-17
+Added Pin To Net: NetName=OSC_IN Pin=U1-23
+Added Pin To Net: NetName=OSC_OUT Pin=U1-24
+Added Pin To Net: NetName=NetC25_2 Pin=U1-25
+Added Pin To Net: NetName=VDD_MCU Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=VDD_MCU Pin=U1-32
+Added Pin To Net: NetName=VDD_MCU Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=VDD_MCU Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=VDD_MCU Pin=U1-52
+Added Pin To Net: NetName=NetR6_1 Pin=U1-56
+Added Pin To Net: NetName=NetR20_2 Pin=U1-57
+Added Pin To Net: NetName=NetR28_2 Pin=U1-57
+Added Pin To Net: NetName=NetR24_2 Pin=U1-58
+Added Pin To Net: NetName=NetR26_2 Pin=U1-59
+Added Pin To Net: NetName=GND Pin=U1-61
+Added Pin To Net: NetName=VDD_MCU Pin=U1-62
+Added Pin To Net: NetName=VCAP2 Pin=U1-70
+Added Pin To Net: NetName=GND Pin=U1-71
+Added Pin To Net: NetName=VDD_MCU Pin=U1-72
+Added Pin To Net: NetName=GND Pin=U1-83
+Added Pin To Net: NetName=VDD_MCU Pin=U1-84
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=VDD_MCU Pin=U1-95
+Added Pin To Net: NetName=VDD_MCU Pin=U1-106
+Added Pin To Net: NetName=GND Pin=U1-107
+Added Pin To Net: NetName=VDD_MCU Pin=U1-108
+Added Pin To Net: NetName=GND Pin=U1-120
+Added Pin To Net: NetName=VDD_MCU Pin=U1-121
+Added Pin To Net: NetName=GND Pin=U1-130
+Added Pin To Net: NetName=VDD_MCU Pin=U1-131
+Added Pin To Net: NetName=NetR1_1 Pin=U1-138
+Added Pin To Net: NetName=VCAP1 Pin=U1-142
+Added Pin To Net: NetName=GND Pin=U1-143
+Added Pin To Net: NetName=VDD_MCU Pin=U1-144
+Added Member To Class: ClassName=CONNECTORs Member=Component M5 M3 Screw
+Added Member To Class: ClassName=CONNECTORs Member=Component M6 M3 Screw
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component U1 #NAME?
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component U1 STM32H563ZIT6
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component U1 STM32H563ZIT6

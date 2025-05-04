@@ -1,0 +1,13 @@
+Added Component: Designator=R43(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402FT3K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=NetR40_1 Pin=R43-2
+Added Member To Class: ClassName=POWER Member=Component R43 RMCF0402FT3K00

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=U9-1
+Added Net: Name=NetC38_1
+Added Member To Class: ClassName=POWER Member=Component C38 *

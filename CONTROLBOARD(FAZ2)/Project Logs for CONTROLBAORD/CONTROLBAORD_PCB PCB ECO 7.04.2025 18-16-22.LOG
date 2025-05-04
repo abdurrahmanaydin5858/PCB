@@ -1,0 +1,121 @@
+Added Component: Designator=D14(DO-214AB, SMC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/bourns-inc/SMLJ13CA/2253492"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp."; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIONM7959X282N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMLJ13CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=D21(DO-214AB, SMC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/bourns-inc/SMLJ13CA/2253492"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp."; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIONM7959X282N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMLJ13CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=D2001(DO-214AB, SMC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/bourns-inc/SMLJ13CA/2253492"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp."; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIONM7959X282N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMLJ13CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=D2002(DO-214AB, SMC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/bourns-inc/SMLJ13CA/2253492"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp."; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIONM7959X282N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMLJ13CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "UD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SSM_TOS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3k56fslf/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=13419&prodName=SSM3K56FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3K56FSLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3K56FSLF?qs=PiFplXvYe5XjAd54EjZm0w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SSM_TOS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3k56fslf/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=13419&prodName=SSM3K56FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3K56FSLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3K56FSLF?qs=PiFplXvYe5XjAd54EjZm0w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2001(SSM_TOS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3k56fslf/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=13419&prodName=SSM3K56FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3K56FSLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3K56FSLF?qs=PiFplXvYe5XjAd54EjZm0w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2004(SSM_TOS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3k56fslf/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=13419&prodName=SSM3K56FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3K56FS,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3K56FSLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3K56FSLF?qs=PiFplXvYe5XjAd54EjZm0w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R50(STA_RMCF2512_STP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PMR100HZPFU5L00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5mOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=12V0_4964 Pin=D14-2
+Added Pin To Net: NetName=GND Pin=D21-1
+Added Pin To Net: NetName=ALARM_PWIN Pin=D21-2
+Added Pin To Net: NetName=GND Pin=D2001-1
+Added Pin To Net: NetName=ALARM_PWIN Pin=D2001-2
+Added Pin To Net: NetName=GND Pin=D2002-1
+Added Pin To Net: NetName=ALARM_PWIN Pin=D2002-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q4-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=NetQ5_1 Pin=Q6-3
+Added Pin To Net: NetName=NetQ2001_1 Pin=Q2001-1
+Added Pin To Net: NetName=GND Pin=Q2001-2
+Added Pin To Net: NetName=NetQ2001_3 Pin=Q2001-3
+Added Pin To Net: NetName=NetQ2004_1 Pin=Q2004-1
+Added Pin To Net: NetName=GND Pin=Q2004-2
+Added Pin To Net: NetName=NetQ2003_1 Pin=Q2004-3
+Added Pin To Net: NetName=NetR48_2 Pin=R50-1
+Added Pin To Net: NetName=12V0_PWOUT Pin=R50-2
+Added Member To Class: ClassName=POWER Member=Component D14 SMLJ13CA
+Added Member To Class: ClassName=ALARM_POWER Member=Component D21 SMLJ13CA
+Added Member To Class: ClassName=ALARM_POWER Member=Component D2001 SMLJ13CA
+Added Member To Class: ClassName=ALARM_POWER Member=Component D2002 SMLJ13CA
+Added Member To Class: ClassName=POWER Member=Component Q4 SSM3K56FS,LF
+Added Member To Class: ClassName=ALARM_POWER Member=Component Q6 SSM3K56FS,LF
+Added Member To Class: ClassName=ALARM_POWER Member=Component Q2001 SSM3K56FS,LF
+Added Member To Class: ClassName=ALARM_POWER Member=Component Q2004 SSM3K56FS,LF
+Added Member To Class: ClassName=POWER Member=Component R50 PMR100HZPFU5L00

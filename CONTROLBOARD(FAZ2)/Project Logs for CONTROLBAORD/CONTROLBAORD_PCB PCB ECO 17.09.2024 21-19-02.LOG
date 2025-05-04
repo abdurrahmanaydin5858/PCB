@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=NetD1_1 New Net Name=RS485_1_N
+Change Net Name : Old Net Name=NetD2_1 New Net Name=RS485_2_N
+Change Net Name : Old Net Name=NetD3_1 New Net Name=RS485_1_P
+Change Net Name : Old Net Name=NetD4_1 New Net Name=RS485_2_P
+Change Net Name : Old Net Name=NetD5_1 New Net Name=RS485_3_N
+Change Net Name : Old Net Name=NetD6_1 New Net Name=RS485_4_N
+Change Net Name : Old Net Name=NetD9_1 New Net Name=RS485_3_P
+Change Net Name : Old Net Name=NetD10_1 New Net Name=RS485_4_P
+Added Differential Pair: Name=RS485_1
+Added Differential Pair: Name=RS485_2
+Added Differential Pair: Name=RS485_3
+Added Differential Pair: Name=RS485_4

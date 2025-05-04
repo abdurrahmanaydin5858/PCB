@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-16
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-17
+Removed Pin From Net: NetName=OSC_IN Pin=U1-23
+Removed Pin From Net: NetName=OSC_OUT Pin=U1-24
+Removed Pin From Net: NetName=NetC25_2 Pin=U1-25
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-30
+Removed Pin From Net: NetName=GND Pin=U1-31
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-32
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-33
+Removed Pin From Net: NetName=GND Pin=U1-38
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-39
+Removed Pin From Net: NetName=GND Pin=U1-51
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-52
+Removed Pin From Net: NetName=NetR28_2 Pin=U1-57
+Removed Pin From Net: NetName=GND Pin=U1-61
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-62
+Removed Pin From Net: NetName=VCAP2 Pin=U1-70
+Removed Pin From Net: NetName=GND Pin=U1-71
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-72
+Removed Pin From Net: NetName=GND Pin=U1-83
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-84
+Removed Pin From Net: NetName=GND Pin=U1-94
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-95
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-106
+Removed Pin From Net: NetName=GND Pin=U1-107
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-108
+Removed Pin From Net: NetName=GND Pin=U1-120
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-121
+Removed Pin From Net: NetName=GND Pin=U1-130
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-131
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-138
+Removed Pin From Net: NetName=VCAP1 Pin=U1-142
+Removed Pin From Net: NetName=GND Pin=U1-143
+Removed Pin From Net: NetName=VDD_MCU Pin=U1-144
+Added Room: Name=CONNECTORs
+Added Room: Name=MICROCONTROLLER
+Added Room: Name=MISC
+Added Room: Name=POWER
+Added Room: Name=UART_USB

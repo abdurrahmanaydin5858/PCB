@@ -1,0 +1,13 @@
+Added Component: Designator=R3001(RES_1206_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "POP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V0_PWIN Pin=R3001-1
+Added Pin To Net: NetName=ALARM_PWIN Pin=R3001-2
+Added Member To Class: ClassName=ALARM_POWER Member=Component R3001 *

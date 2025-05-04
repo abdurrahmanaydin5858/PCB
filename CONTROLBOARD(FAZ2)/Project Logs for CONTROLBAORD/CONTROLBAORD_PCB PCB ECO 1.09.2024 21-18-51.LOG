@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetR106_2 Pin=U1-2
+Removed Pin From Net: NetName=NetR107_2 Pin=U1-3
+Removed Pin From Net: NetName=NetR110_2 Pin=U1-4
+Removed Pin From Net: NetName=NetR99_2 Pin=U1-14
+Removed Pin From Net: NetName=NetR100_2 Pin=U1-15
+Removed Pin From Net: NetName=NetR108_2 Pin=U1-21
+Removed Pin From Net: NetName=NetR109_2 Pin=U1-22
+Removed Pin From Net: NetName=NetR116_2 Pin=U1-41
+Added Pin To Net: NetName=NetR99_2 Pin=U1-2
+Added Pin To Net: NetName=NetR100_2 Pin=U1-3
+Added Pin To Net: NetName=NetR106_2 Pin=U1-4
+Added Pin To Net: NetName=NetR107_2 Pin=U1-7
+Added Pin To Net: NetName=NetR108_2 Pin=U1-12
+Added Pin To Net: NetName=NetR109_2 Pin=U1-13
+Added Pin To Net: NetName=NetR110_2 Pin=U1-14
+Added Pin To Net: NetName=NetR116_2 Pin=U1-15
+Added Room: Name=CONNECTORs
+Added Room: Name=MICROCONTROLLER
+Added Room: Name=MISC
+Added Room: Name=POWER
+Added Room: Name=UART_USB

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ALARM1_PWOUT Pin=J19-1
+Removed Pin From Net: NetName=GND Pin=J19-2
+Removed Pin From Net: NetName=ALARM2_PWOUT Pin=J19-3
+Removed Pin From Net: NetName=GND Pin=J19-4
+Removed Pin From Net: NetName=ALARM3_PWOUT Pin=J19-5
+Removed Pin From Net: NetName=GND Pin=J19-6
+Removed Member From Class: ClassName=ALARM_POWER Member=J19

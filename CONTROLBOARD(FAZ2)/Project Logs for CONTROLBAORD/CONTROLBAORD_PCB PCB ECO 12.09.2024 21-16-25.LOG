@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetD?_1 Pin=D?-1
+Removed Pin From Net: NetName=NetD?_2 Pin=D?-2
+Removed Pin From Net: NetName=NetD?_1 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=12V0_PWIN Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD?_2 Pin=R?-1
+Added Pin To Net: NetName=12V0_PWIN Pin=R?-2
+Added Pin To Net: NetName=12V0_PWOUT Pin=R?-2
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Member To Class: ClassName=POWER Member=Component D? SMLJ13CA
+Added Member To Class: ClassName=CONNECTORs Member=Component J? SBDK 3,81-E1/2 11050 MR
+Added Member To Class: ClassName=CONNECTORs Member=Component J? SBDK 3,81-E1/2 11050 MR
+Added Member To Class: ClassName=CONNECTORs Member=Component J? SBDK 3,81-E1/2 11050 MR
+Added Member To Class: ClassName=POWER Member=Component J? SBDK 5,08-E1/2 MR
+Added Member To Class: ClassName=POWER Member=Component J? SBDK 5,08-E1/2 MR
+Added Member To Class: ClassName=POWER Member=Component J? SBDK 5,08-E1/2 MR
+Added Member To Class: ClassName=POWER Member=Component R? PMR100HZPFU5L00
+Added Member To Class: ClassName=POWER Member=Component R? RMCF0402JT100K
+Added Member To Class: ClassName=POWER Member=Component R? RMCF0402JT100K

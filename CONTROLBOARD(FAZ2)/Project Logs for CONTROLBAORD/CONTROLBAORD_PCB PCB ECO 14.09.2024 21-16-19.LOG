@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetC25_2 Pin=R3-1
+Removed Pin From Net: NetName=VDD_MCU Pin=R3-2
+Change Component Comment : Designator=R3 Old Comment=* New Comment=RMCF0402JT2K20
+Change Component Comment : Designator=R1 Old Comment=RC0402JR-070RL New Comment=RMCF0402JT2K20
+Change Component Comment : Designator=R2 Old Comment=RC0402JR-070RL New Comment=RMCF0402JT2K20
+Change component parameters: Designator = "R2"; Footprint = "RES_0402_SMD"; UniqueID = "\NGOQNACR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RES_0402_SMD"; UniqueID = "\POBPURZB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Place"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES_0402_SMD"; UniqueID = "\CMPWAZXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=VDD_MCU Pin=R3-1
+Added Pin To Net: NetName=NetC25_2 Pin=R3-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-138
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=MISC Member=Component R21 ESR10EZPJ121

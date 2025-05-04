@@ -1,0 +1,59 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D3001
+Change Component Designator: OldDesignator=D? NewDesignator=D3002
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3001
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3002
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3003
+Change Component Designator: OldDesignator=R? NewDesignator=R3001
+Change Component Designator: OldDesignator=R? NewDesignator=R3002
+Change Component Designator: OldDesignator=R? NewDesignator=R3003
+Change Component Designator: OldDesignator=R? NewDesignator=R3004
+Added Pin To Net: NetName=VDD_MCU Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=5V0_INT Pin=D17-1
+Added Pin To Net: NetName=VBUS Pin=D17-2
+Added Pin To Net: NetName=ALARM_4964 Pin=D3001-1
+Added Pin To Net: NetName=GND Pin=D3001-2
+Added Pin To Net: NetName=ALARM_PWOUT Pin=D3002-1
+Added Pin To Net: NetName=GND Pin=D3002-2
+Added Pin To Net: NetName=12V0_PWOUT Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=ALARM_4964 Pin=Q3001-2
+Added Pin To Net: NetName=ALARM_PWIN Pin=Q3001-3
+Added Pin To Net: NetName=ALARM_PWOUT Pin=Q3002-2
+Added Pin To Net: NetName=ALARM_PW_BF_PRO_OUT Pin=Q3002-3
+Added Pin To Net: NetName=ALARM_4964 Pin=Q3003-2
+Added Pin To Net: NetName=ALARM_PW_BF_PRO_OUT Pin=Q3003-3
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=12V0_PWOUT Pin=Q?-2
+Added Pin To Net: NetName=12V0_PW_BF_PRO_OUT Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=R3001-1
+Added Pin To Net: NetName=GND Pin=R3002-1
+Added Pin To Net: NetName=ALARM_4964 Pin=R3003-2
+Added Pin To Net: NetName=GND Pin=R3004-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ3001_1 Pin=Q3001-1
+Added Pin To Net: NetName=NetQ3001_1 Pin=R3001-2
+Added Net: Name=NetQ3001_1
+Added Pin To Net: NetName=NetQ3002_1 Pin=Q3002-1
+Added Pin To Net: NetName=NetQ3002_1 Pin=R3002-2
+Added Net: Name=NetQ3002_1
+Added Pin To Net: NetName=NetQ3003_1 Pin=Q3003-1
+Added Pin To Net: NetName=NetQ3003_1 Pin=R3003-1
+Added Net: Name=NetQ3003_1
+Added Pin To Net: NetName=NetQ3004_1 Pin=R3004-2
+Added Net: Name=NetQ3004_1
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C21 CL05B104KP5NNNC
+Added Member To Class: ClassName=UART_USB Member=Component D17 BAT42WS-E3-08
+Added Member To Class: ClassName=ALARM_POWER Member=Component D3001 SMF13A
+Added Member To Class: ClassName=ALARM_POWER Member=Component D3002 SMF13A
+Added Member To Class: ClassName=POWER Member=Component D? SMF13A
+Added Member To Class: ClassName=ALARM_POWER Member=Component Q3001 SQM110P06-8M9L_GE3
+Added Member To Class: ClassName=ALARM_POWER Member=Component Q3002 SQM110P06-8M9L_GE3
+Added Member To Class: ClassName=ALARM_POWER Member=Component Q3003 SQM110P06-8M9L_GE3
+Added Member To Class: ClassName=POWER Member=Component Q? SQM110P06-8M9L_GE3
+Added Member To Class: ClassName=ALARM_POWER Member=Component R3001 RMCF0402JT100K
+Added Member To Class: ClassName=ALARM_POWER Member=Component R3002 RMCF0402JT100K
+Added Member To Class: ClassName=ALARM_POWER Member=Component R3003 RMCF0402JT100K
+Added Member To Class: ClassName=ALARM_POWER Member=Component R3004 RMCF0402JT100K
+Added Member To Class: ClassName=POWER Member=Component R? RMCF0402JT100K

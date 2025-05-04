@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J19 Old Footprint=CONN_1815303 New Footprint=691311500006
+Change Component Comment : Designator=J19 Old Comment=1778599 New Comment=SBDK 5,08-E2A/6
+Change Component Comment : Designator=P21 Old Comment=691311500003 New Comment=SBDK 5,08-E2A/3 
+Added Member To Class: ClassName=ALARM_POWER Member=Component J19 SBDK 5,08-E2A/6

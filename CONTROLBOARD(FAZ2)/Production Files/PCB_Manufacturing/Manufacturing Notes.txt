@@ -1,0 +1,9 @@
+- Dimensinons : 480.5mmx38.75mm
+- Layers: 4
+- Soldermask : Green
+- Silkscreen : White
+- Surface Finish : ENIG
+- Min Via Size : 0.4mm x 0.2mm
+- Min Spacing : 0.1mm
+- Thickness : ~1.6mm
+- Panelization : Yes

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=12V0_PWIN Pin=D13-2
+Removed Pin From Net: NetName=12V0_PWIN Pin=Q2-2
+Removed Pin From Net: NetName=12V0_PWIN Pin=R37-2
+Added Pin To Net: NetName=12V0_4964 Pin=D13-2
+Added Pin To Net: NetName=12V0_4964 Pin=Q2-2
+Added Pin To Net: NetName=12V0_4964 Pin=R37-2

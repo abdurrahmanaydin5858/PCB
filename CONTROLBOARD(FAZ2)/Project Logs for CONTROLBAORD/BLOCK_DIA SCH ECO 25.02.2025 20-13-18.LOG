@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=U1B-23 Old Name=PH0-OSC_IN New Designator =PA7/SPI1_MOSI New Name=23
+Change Pin Designator/Name:  Old Designator=U1B-24 Old Name=PH1-OSC_OUT New Designator =PC4 New Name=24
+Change Pin Designator/Name:  Old Designator=U1B-25 Old Name=NRST New Designator =PC5 New Name=25
+Change Pin Designator/Name:  Old Designator=U1B-57 Old Name=PG1 New Designator =PB5 New Name=57

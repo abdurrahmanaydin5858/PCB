@@ -1,0 +1,238 @@
+Removed Pin From Net: NetName=VDD_MCU Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=VDD_MCU Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=VDD_MCU Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=VDD_MCU Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=VDD_MCU Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=VDD_MCU Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=VDD_MCU Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=USB_D_N Pin=R49-1
+Removed Pin From Net: NetName=USB1_D_N Pin=R49-2
+Removed Pin From Net: NetName=USB_D_P Pin=R50-1
+Removed Pin From Net: NetName=USB1_D_P Pin=R50-2
+Removed Pin From Net: NetName=NetR9_1 Pin=U1-2
+Removed Pin From Net: NetName=NetR8_1 Pin=U1-3
+Removed Pin From Net: NetName=NetR7_1 Pin=U1-4
+Removed Pin From Net: NetName=NetEXTRA1_2 Pin=U1-8
+Removed Pin From Net: NetName=NetEXTRA1_1 Pin=U1-9
+Removed Pin From Net: NetName=NetR29_2 Pin=U1-10
+Removed Pin From Net: NetName=NetR51_2 Pin=U1-11
+Removed Pin From Net: NetName=NetR46_2 Pin=U1-20
+Removed Pin From Net: NetName=NetR53_2 Pin=U1-24
+Removed Pin From Net: NetName=NetR30_2 Pin=U1-25
+Removed Pin From Net: NetName=NetR6_1 Pin=U1-26
+Removed Pin From Net: NetName=NetR20_2 Pin=U1-27
+Removed Pin From Net: NetName=NetR24_2 Pin=U1-28
+Removed Pin From Net: NetName=NetR52_2 Pin=U1-37
+Removed Pin From Net: NetName=NetR25_2 Pin=U1-38
+Removed Pin From Net: NetName=NetR33_2 Pin=U1-39
+Removed Pin From Net: NetName=NetR13_1 Pin=U1-40
+Removed Pin From Net: NetName=USB1_D_N Pin=U1-41
+Removed Pin From Net: NetName=USB1_D_P Pin=U1-42
+Removed Pin From Net: NetName=NetPROG1_3 Pin=U1-43
+Removed Pin From Net: NetName=NetPROG1_2 Pin=U1-44
+Removed Pin From Net: NetName=NetQ3_1 Pin=U1-45
+Removed Pin From Net: NetName=I2C_SCL-1 Pin=U1-49
+Removed Pin From Net: NetName=I2C_SDA-1 Pin=U1-50
+Removed Pin From Net: NetName=NetR12_1 Pin=U1-51
+Removed Pin From Net: NetName=NetR11_1 Pin=U1-52
+Removed Pin From Net: NetName=NetR10_1 Pin=U1-53
+Removed Pin From Net: NetName=NetR26_2 Pin=U1-55
+Removed Pin From Net: NetName=NetR27_2 Pin=U1-57
+Removed Pin From Net: NetName=NetR54_2 Pin=U1-58
+Removed Pin From Net: NetName=NetR28_2 Pin=U1-59
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C18
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C19
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C20
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C21
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C22
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C23
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C24
+Removed Member From Class: ClassName=MICROCONTROLLER Member=R49
+Removed Member From Class: ClassName=MICROCONTROLLER Member=R50
+Change Component Designator: OldDesignator=D? NewDesignator=D1001
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1001
+Change Component Designator: OldDesignator=R? NewDesignator=R1001
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402JT2K20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Operating Temp."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Place"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0_INT Pin=R?-1
+Added Pin To Net: NetName=5V0_INT Pin=R?-1
+Added Pin To Net: NetName=5V0_INT Pin=R?-1
+Added Pin To Net: NetName=5V0_INT Pin=R?-1
+Added Pin To Net: NetName=RS485_1_N Pin=R?-1
+Added Pin To Net: NetName=RS485_2_N Pin=R?-1
+Added Pin To Net: NetName=RS485_3_N Pin=R?-1
+Added Pin To Net: NetName=RS485_4_N Pin=R?-1
+Added Pin To Net: NetName=USB_D_N Pin=R?-1
+Added Pin To Net: NetName=USB_D_P Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=RS485_1_P Pin=R?-2
+Added Pin To Net: NetName=RS485_2_P Pin=R?-2
+Added Pin To Net: NetName=RS485_3_P Pin=R?-2
+Added Pin To Net: NetName=RS485_4_P Pin=R?-2
+Added Pin To Net: NetName=USB1_D_N Pin=R?-2
+Added Pin To Net: NetName=USB1_D_P Pin=R?-2
+Added Pin To Net: NetName=NetR8_1 Pin=U1-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1-3
+Added Pin To Net: NetName=NetR33_2 Pin=U1-21
+Added Pin To Net: NetName=NetR25_2 Pin=U1-22
+Added Pin To Net: NetName=NetR28_2 Pin=U1-23
+Added Pin To Net: NetName=NetR46_2 Pin=U1-28
+Added Pin To Net: NetName=NetEXTRA1_1 Pin=U1-29
+Added Pin To Net: NetName=NetEXTRA1_2 Pin=U1-30
+Added Pin To Net: NetName=NetR26_2 Pin=U1-33
+Added Pin To Net: NetName=NetR27_2 Pin=U1-34
+Added Pin To Net: NetName=NetR53_2 Pin=U1-35
+Added Pin To Net: NetName=NetR54_2 Pin=U1-36
+Added Pin To Net: NetName=NetR51_2 Pin=U1-37
+Added Pin To Net: NetName=NetR29_2 Pin=U1-38
+Added Pin To Net: NetName=NetQ3_1 Pin=U1-41
+Added Pin To Net: NetName=USB1_D_N Pin=U1-44
+Added Pin To Net: NetName=USB1_D_P Pin=U1-45
+Added Pin To Net: NetName=NetPROG1_3 Pin=U1-46
+Added Pin To Net: NetName=NetPROG1_2 Pin=U1-49
+Added Pin To Net: NetName=NetR6_1 Pin=U1-50
+Added Pin To Net: NetName=NetR52_2 Pin=U1-51
+Added Pin To Net: NetName=NetR30_2 Pin=U1-52
+Added Pin To Net: NetName=NetR24_2 Pin=U1-53
+Added Pin To Net: NetName=NetR20_2 Pin=U1-54
+Added Pin To Net: NetName=NetR13_1 Pin=U1-55
+Added Pin To Net: NetName=NetR12_1 Pin=U1-56
+Added Pin To Net: NetName=NetR11_1 Pin=U1-57
+Added Pin To Net: NetName=NetR10_1 Pin=U1-58
+Added Pin To Net: NetName=NetR9_1 Pin=U1-59
+Added Pin To Net: NetName=I2C_SCL-1 Pin=U1-61
+Added Pin To Net: NetName=I2C_SDA-1 Pin=U1-62
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1001_1
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Pin To Net: NetName=NetU1_20 Pin=U8-1
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_42 Pin=U1-42
+Added Pin To Net: NetName=NetU1_42 Pin=U11-2
+Added Net: Name=NetU1_42
+Added Pin To Net: NetName=NetU1_43 Pin=U1-43
+Added Pin To Net: NetName=NetU1_43 Pin=U11-15
+Added Net: Name=NetU1_43
+Added Member To Class: ClassName=POWER Member=Component D1001 SMF13A
+Added Member To Class: ClassName=POWER Member=Component Q1001 SQM110P06-8M9L_GE3
+Added Member To Class: ClassName=POWER Member=Component R1001 RMCF0402JT100K
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R? RC0402JR-070RL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R? RC0402JR-070RL
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Member To Class: ClassName=MISC Member=Component R? RMCF0402JT2K20
+Added Room: Name=ALARM_POWER
